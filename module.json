@@ -12,7 +12,7 @@
     }
   ],
   "esmodules": [
-    "colored-chat-borders.js"
+    "/dist/colored-chat-borders.js"
   ],
   "readme": "https://raw.githubusercontent.com/apewall/colored-chat-borders/main/README.md",
   "bugs": "https://github.com/apewall/colored-chat-borders/issues",

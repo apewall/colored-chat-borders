@@ -6,9 +6,9 @@ export const registerSettings = function() {
     game.settings.register("colored-chat-borders", "EnableChatBorders", {
 		name: "Enable colored chat borders",
 		hint: "Enable colored chat borders for all chat messages",
-		scope: 'world',
+        scope: 'world',
         config: true,
-		type: Boolean,
+        type: Boolean,
 		default: true,
         onChange: debouncedReload
   });

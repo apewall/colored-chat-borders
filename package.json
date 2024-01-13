@@ -9,7 +9,7 @@
     "build": "tsc && vite build"
   },
   "devDependencies": {
-    "@league-of-foundry-developers/foundry-vtt-types": "^9.280.0",
+    "@league-of-foundry-developers/foundry-vtt-types": "League-of-Foundry-Developers/foundry-vtt-types#main",
     "rollup-plugin-copy": "^3.5.0",
     "typescript": "^5.3.3",
     "vite": "^5.0.11"
